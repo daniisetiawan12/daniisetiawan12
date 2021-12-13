@@ -31,4 +31,4 @@ def main():
         if 'eror' in  leosureo :
         print('gagal mengirim' +  no)
 else :
-         print('gagal mengirim' +  no)
+         print('succses mengirim' +  no)
